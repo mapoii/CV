@@ -63,15 +63,15 @@
     ],
     "work":[
       {
-        "company":"",
-        "title":"",
-        "years":"",
+        "company":"none",
+        "title":"none",
+        "years":"none",
         "description":""
       },
       {
-        "company":"",
-        "title":"",
-        "years":"",
+        "company":"none",
+        "title":"none",
+        "years":"none",
         "description":""
       }
     ],
