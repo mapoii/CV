@@ -63,7 +63,8 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <label htmlFor="contactSubject">Subject</label>
+                    <label htmlFor="contactSubject">
+                      Subject</label>
                     <input
                       type="text"
                       defaultValue=""
@@ -87,7 +88,8 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <button className="submit">Submit</button>
+                    <button className="submit">
+                      Submit</button>
                     <span id="image-loader">
                       <img alt="" src="images/loader.gif" />
                     </span>
